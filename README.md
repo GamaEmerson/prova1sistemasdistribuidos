@@ -15,7 +15,11 @@ Unidades restantes 11
 
 ## Explicação
 
-1
+1. Calculo foi executado no servidor.py onde recebe o comando para subtrair e envia ao cliente
+
+2. Foi inciado a solicitaçao pelo cliente.py
+
+3.cliente nao consegue estabelecer conexao com serviço e nao tem a resposta esperada pode ocorrer erro
 
 
 
